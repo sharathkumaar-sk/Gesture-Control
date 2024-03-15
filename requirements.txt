@@ -1,0 +1,9 @@
+mediapipe
+opencv-python
+pyautogui
+pygetwindow
+
+
+
+
+
