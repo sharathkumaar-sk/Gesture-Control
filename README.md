@@ -4,6 +4,10 @@
 ## Purpose
 
 This project provides a virtual mouse controlled by hand gestures, offering hands-free interaction with your computer. It offers essential mouse functions like cursor movement, clicking, and even video playback control in VLC media player.
+<p align="center">
+  <img src="https://github.com/sharathkumaar-sk/Gesture_Control/assets/163333516/797b6014-1871-47b2-85fa-bb6087ccd808" width="400" height="300" />
+  <img src="https://github.com/sharathkumaar-sk/Gesture_Control/assets/163333516/d6181ab2-e5c7-4ea7-b5e2-24e9a575aa90" width="400" height="300" />
+</p>
 
 ## Key Features
 
